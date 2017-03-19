@@ -19,8 +19,6 @@
       "testTsconfig": "tsconfig.spec.json",
       "prefix": "app",
       "styles": [
-        "assets/css/AdminLTE.css"
-       
       ],
       "scripts": [
       ],
